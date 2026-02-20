@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1643514239/2069/excited.gif?1643514239" width="25"/> 
 
-I’m [**pedrO**](https://www.miraya.tech), mostly a frontend developer based in Brazil.
+I’m [**pedrO**](https://pedrofsilveira-dev.vercel.app), mostly a frontend developer based in Brazil.
 
 If an idea pops into my head, chances are I’ll build it and ship it.
 
