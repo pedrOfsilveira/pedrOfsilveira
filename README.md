@@ -6,7 +6,7 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 My main tech stack is Vue.js, Quasar, Pinia, and Supabase. My favorite tools are Figma, Photoshop and Plane.
 
-I’ve got a few pinned projects, but my favorite is [BlueBee](https://github.com/pedrOfsilveira/bluebee), a financial literacy PWA.
+I’ve got a few pinned projects, but my favorite is [PomoQ](https://github.com/pedrOfsilveira/pomoq), a question-based study PWA inspired by the pomodoro method.
 
 If you want to chat about code or opportunities, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pedrofsilveira/).
 
