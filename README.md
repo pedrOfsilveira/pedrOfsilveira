@@ -4,7 +4,7 @@ I’m [**pedrO**](https://pedrofsilveira-dev.vercel.app), mostly a frontend deve
 
 If an idea pops into my head, chances are I’ll build it and ship it.
 
-My main tech stack is Vue.js, Quasar, Pinia, and Supabase. My favorite tools are Figma, Photoshop and Plane.
+My main tech stack is Vue.js, Quasar, Pinia, and Supabase.
 
 I’ve got a few pinned projects, but my favorite is [PomoQ](https://github.com/pedrOfsilveira/pomoq), a question-based study PWA inspired by the pomodoro method.
 
