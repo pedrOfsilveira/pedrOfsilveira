@@ -7,8 +7,6 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 My main tech stack is Vue.js, Quasar, Pinia, and Supabase.
 I'm currently having some fun with Go & HTMX, diving a little deeper into the backend side of things.
 
-I’ve got a few pinned projects, but my favorite is [PomoQ](https://github.com/pedrOfsilveira/pomoq), a question-based study PWA inspired by the pomodoro method.
-
 If you want to chat about code or opportunities, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/pedrofsilveira/).
 
 #### Fun Facts:
